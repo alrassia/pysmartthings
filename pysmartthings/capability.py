@@ -126,7 +126,7 @@ CAPABILITIES_TO_ATTRIBUTES = {
         "thermostatSetpoint",
         "thermostatSetpointRange",
     ],
-    "thermostatCoolingSetpoint": ["coolingSetpoint"],
+    "thermostatCoolingSetpoint": ["coolingSetpoint", "coolingSetpointRange"],
     "thermostatFanMode": ["thermostatFanMode", "supportedThermostatFanModes"],
     "thermostatHeatingSetpoint": ["heatingSetpoint"],
     "thermostatMode": ["thermostatMode", "supportedThermostatModes"],
